@@ -1,0 +1,429 @@
+	spot	x	y	label
+2x14	2x14	428	23	Duct epithelium
+2x15	2x15	413	23	Duct epithelium
+2x16	2x16	398	23	Duct epithelium
+2x17	2x17	384	23	Duct epithelium
+2x18	2x18	369	23	Duct epithelium
+3x13	3x13	443	38	Duct epithelium
+3x14	3x14	428	38	Duct epithelium
+3x15	3x15	413	38	Duct epithelium
+3x16	3x16	398	38	Duct epithelium
+3x17	3x17	384	38	Duct epithelium
+3x18	3x18	369	38	Duct epithelium
+4x8	4x8	517	53	Stroma
+4x9	4x9	502	53	Duct epithelium
+4x10	4x10	487	53	Duct epithelium
+4x11	4x11	472	53	Duct epithelium
+4x13	4x13	443	53	Duct epithelium
+4x14	4x14	428	53	Duct epithelium
+4x15	4x15	413	53	Stroma
+4x16	4x16	398	53	Duct epithelium
+4x17	4x17	384	53	Duct epithelium
+5x8	5x8	517	68	Stroma
+5x9	5x9	502	68	Duct epithelium
+5x10	5x10	487	68	Duct epithelium
+5x11	5x11	472	68	Duct epithelium
+5x13	5x13	443	68	Duct epithelium
+5x14	5x14	428	68	Cancer region
+5x15	5x15	413	68	Duct epithelium
+5x16	5x16	398	68	Duct epithelium
+5x17	5x17	384	68	Duct epithelium
+6x9	6x9	502	82	Duct epithelium
+6x10	6x10	487	82	Duct epithelium
+6x11	6x11	472	82	Duct epithelium
+6x13	6x13	443	82	Duct epithelium
+6x14	6x14	428	82	Duct epithelium
+6x15	6x15	413	82	Duct epithelium
+6x16	6x16	398	82	Duct epithelium
+6x31	6x31	176	82	Duct epithelium
+6x32	6x32	162	82	Duct epithelium
+6x33	6x33	147	82	Duct epithelium
+7x10	7x10	487	97	Duct epithelium
+7x11	7x11	472	97	Duct epithelium
+7x13	7x13	443	97	Duct epithelium
+7x14	7x14	428	97	Duct epithelium
+7x31	7x31	176	97	Duct epithelium
+7x32	7x32	162	97	Duct epithelium
+7x33	7x33	147	97	Duct epithelium
+8x10	8x10	487	112	Duct epithelium
+8x11	8x11	472	112	Duct epithelium
+8x13	8x13	443	112	Duct epithelium
+8x14	8x14	428	112	Duct epithelium
+8x31	8x31	176	112	Duct epithelium
+8x32	8x32	162	112	Duct epithelium
+8x33	8x33	147	112	Cancer region
+9x10	9x10	487	127	Duct epithelium
+9x11	9x11	472	127	Duct epithelium
+9x13	9x13	443	127	Duct epithelium
+9x16	9x16	398	127	Duct epithelium
+9x17	9x17	384	127	Duct epithelium
+9x18	9x18	369	127	Duct epithelium
+9x26	9x26	250	127	Duct epithelium
+9x27	9x27	236	127	Duct epithelium
+9x29	9x29	206	127	Duct epithelium
+9x30	9x30	191	127	Duct epithelium
+9x31	9x31	176	127	Stroma
+9x32	9x32	162	127	Stroma
+9x33	9x33	147	127	Cancer region
+10x10	10x10	487	142	Duct epithelium
+10x13	10x13	443	142	Duct epithelium
+10x14	10x14	428	142	Duct epithelium
+10x15	10x15	413	142	Duct epithelium
+10x16	10x16	398	142	Duct epithelium
+10x17	10x17	384	142	Duct epithelium
+10x19	10x19	354	142	Duct epithelium
+10x20	10x20	339	142	Duct epithelium
+10x24	10x24	280	142	Duct epithelium
+10x25	10x25	265	142	Duct epithelium
+10x26	10x26	250	142	Duct epithelium
+10x27	10x27	236	142	Duct epithelium
+10x28	10x28	221	142	Duct epithelium
+10x29	10x29	206	142	Stroma
+10x30	10x30	191	142	Duct epithelium
+10x31	10x31	176	142	Stroma
+10x32	10x32	162	142	Stroma
+10x33	10x33	147	142	Duct epithelium
+11x11	11x11	472	156	Duct epithelium
+11x13	11x13	443	156	Duct epithelium
+11x14	11x14	428	156	Duct epithelium
+11x15	11x15	413	156	Duct epithelium
+11x16	11x16	398	156	Duct epithelium
+11x17	11x17	384	156	Duct epithelium
+11x19	11x19	354	156	Duct epithelium
+11x21	11x21	324	156	Duct epithelium
+11x22	11x22	310	156	Duct epithelium
+11x23	11x23	295	156	Duct epithelium
+11x24	11x24	280	156	Duct epithelium
+11x25	11x25	265	156	Duct epithelium
+11x26	11x26	250	156	Stroma
+11x27	11x27	236	156	Duct epithelium
+11x28	11x28	221	156	Duct epithelium
+11x29	11x29	206	156	Duct epithelium
+11x30	11x30	191	156	Duct epithelium
+11x31	11x31	176	156	Duct epithelium
+11x32	11x32	162	156	Stroma
+11x33	11x33	147	156	Cancer region
+11x34	11x34	132	156	Cancer region
+12x13	12x13	443	171	Stroma
+12x14	12x14	428	171	Stroma
+12x15	12x15	413	171	Stroma
+12x16	12x16	398	171	Stroma
+12x17	12x17	384	171	Duct epithelium
+12x19	12x19	354	171	Duct epithelium
+12x20	12x20	339	171	Duct epithelium
+12x21	12x21	324	171	Duct epithelium
+12x22	12x22	310	171	Duct epithelium
+12x23	12x23	295	171	Duct epithelium
+12x24	12x24	280	171	Duct epithelium
+12x25	12x25	265	171	Duct epithelium
+12x26	12x26	250	171	Stroma
+12x27	12x27	236	171	Duct epithelium
+12x28	12x28	221	171	Duct epithelium
+12x29	12x29	206	171	Stroma
+12x30	12x30	191	171	Stroma
+12x31	12x31	176	171	Stroma
+12x32	12x32	162	171	Cancer region
+12x33	12x33	147	171	Cancer region
+12x34	12x34	132	171	Cancer region
+13x13	13x13	443	186	Pancreatic tissue
+13x14	13x14	428	186	Stroma
+13x15	13x15	413	186	Pancreatic tissue
+13x16	13x16	398	186	Pancreatic tissue
+13x17	13x17	384	186	Pancreatic tissue
+13x19	13x19	354	186	Duct epithelium
+13x20	13x20	339	186	Duct epithelium
+13x21	13x21	324	186	Duct epithelium
+13x22	13x22	310	186	Duct epithelium
+13x23	13x23	295	186	Cancer region
+13x24	13x24	280	186	Stroma
+13x25	13x25	265	186	Stroma
+13x26	13x26	250	186	Stroma
+13x27	13x27	236	186	Stroma
+13x28	13x28	221	186	Duct epithelium
+13x29	13x29	206	186	Stroma
+13x30	13x30	191	186	Cancer region
+13x31	13x31	176	186	Cancer region
+13x32	13x32	162	186	Cancer region
+13x33	13x33	147	186	Cancer region
+13x34	13x34	132	186	Duct epithelium
+14x13	14x13	443	201	Pancreatic tissue
+14x14	14x14	428	201	Pancreatic tissue
+14x15	14x15	413	201	Pancreatic tissue
+14x16	14x16	398	201	Pancreatic tissue
+14x17	14x17	384	201	Stroma
+14x18	14x18	369	201	Stroma
+14x19	14x19	354	201	Duct epithelium
+14x20	14x20	339	201	Stroma
+14x21	14x21	324	201	Duct epithelium
+14x22	14x22	310	201	Duct epithelium
+14x23	14x23	295	201	Cancer region
+14x24	14x24	280	201	Stroma
+14x25	14x25	265	201	Pancreatic tissue
+14x26	14x26	250	201	Pancreatic tissue
+14x27	14x27	236	201	Stroma
+14x28	14x28	221	201	Cancer region
+14x29	14x29	206	201	Cancer region
+14x30	14x30	191	201	Cancer region
+14x31	14x31	176	201	Cancer region
+14x32	14x32	162	201	Stroma
+14x33	14x33	147	201	Cancer region
+14x34	14x34	132	201	Cancer region
+15x13	15x13	443	216	Pancreatic tissue
+15x14	15x14	428	216	Pancreatic tissue
+15x15	15x15	413	216	Stroma
+15x16	15x16	398	216	Stroma
+15x17	15x17	384	216	Pancreatic tissue
+15x18	15x18	369	216	Pancreatic tissue
+15x19	15x19	354	216	Stroma
+15x20	15x20	339	216	Stroma
+15x21	15x21	324	216	Stroma
+15x22	15x22	310	216	Stroma
+15x23	15x23	295	216	Stroma
+15x24	15x24	280	216	Pancreatic tissue
+15x25	15x25	265	216	Pancreatic tissue
+15x26	15x26	250	216	Pancreatic tissue
+15x27	15x27	236	216	Stroma
+15x28	15x28	221	216	Cancer region
+15x29	15x29	206	216	Cancer region
+15x30	15x30	191	216	Cancer region
+15x31	15x31	176	216	Cancer region
+15x32	15x32	162	216	Cancer region
+15x33	15x33	147	216	Cancer region
+15x34	15x34	132	216	Duct epithelium
+16x13	16x13	443	230	Pancreatic tissue
+16x14	16x14	428	230	Pancreatic tissue
+16x15	16x15	413	230	Pancreatic tissue
+16x16	16x16	398	230	Pancreatic tissue
+16x17	16x17	384	230	Pancreatic tissue
+16x18	16x18	369	230	Pancreatic tissue
+16x19	16x19	354	230	Duct epithelium
+16x20	16x20	339	230	Duct epithelium
+16x21	16x21	324	230	Stroma
+16x22	16x22	310	230	Stroma
+16x23	16x23	295	230	Stroma
+16x24	16x24	280	230	Stroma
+16x25	16x25	265	230	Pancreatic tissue
+16x26	16x26	250	230	Stroma
+16x27	16x27	236	230	Stroma
+16x28	16x28	221	230	Stroma
+16x30	16x30	191	230	Cancer region
+16x31	16x31	176	230	Cancer region
+16x32	16x32	162	230	Cancer region
+16x33	16x33	147	230	Cancer region
+16x34	16x34	132	230	Stroma
+17x13	17x13	443	245	Pancreatic tissue
+17x14	17x14	428	245	Pancreatic tissue
+17x15	17x15	413	245	Pancreatic tissue
+17x16	17x16	398	245	Pancreatic tissue
+17x17	17x17	384	245	Pancreatic tissue
+17x18	17x18	369	245	Pancreatic tissue
+17x19	17x19	354	245	Stroma
+17x20	17x20	339	245	Stroma
+17x21	17x21	324	245	Stroma
+17x22	17x22	310	245	Stroma
+17x23	17x23	295	245	Stroma
+17x24	17x24	280	245	Stroma
+17x25	17x25	265	245	Stroma
+17x26	17x26	250	245	Stroma
+17x28	17x28	221	245	Stroma
+17x29	17x29	206	245	Stroma
+17x30	17x30	191	245	Cancer region
+17x31	17x31	176	245	Cancer region
+17x32	17x32	162	245	Cancer region
+17x33	17x33	147	245	Cancer region
+17x34	17x34	132	245	Cancer region
+18x13	18x13	443	260	Pancreatic tissue
+18x14	18x14	428	260	Pancreatic tissue
+18x15	18x15	413	260	Pancreatic tissue
+18x16	18x16	398	260	Pancreatic tissue
+18x17	18x17	384	260	Pancreatic tissue
+18x18	18x18	369	260	Pancreatic tissue
+18x19	18x19	354	260	Pancreatic tissue
+18x20	18x20	339	260	Stroma
+18x21	18x21	324	260	Stroma
+18x22	18x22	310	260	Stroma
+18x23	18x23	295	260	Stroma
+18x24	18x24	280	260	Stroma
+18x25	18x25	265	260	Stroma
+18x26	18x26	250	260	Stroma
+18x28	18x28	221	260	Stroma
+18x29	18x29	206	260	Stroma
+18x30	18x30	191	260	Cancer region
+18x31	18x31	176	260	Cancer region
+18x32	18x32	162	260	Cancer region
+18x33	18x33	147	260	Cancer region
+18x34	18x34	132	260	Cancer region
+19x13	19x13	443	275	Pancreatic tissue
+19x14	19x14	428	275	Pancreatic tissue
+19x15	19x15	413	275	Pancreatic tissue
+19x17	19x17	384	275	Pancreatic tissue
+19x18	19x18	369	275	Pancreatic tissue
+19x19	19x19	354	275	Stroma
+19x20	19x20	339	275	Stroma
+19x21	19x21	324	275	Stroma
+19x22	19x22	310	275	Stroma
+19x23	19x23	295	275	Duct epithelium
+19x24	19x24	280	275	Stroma
+19x25	19x25	265	275	Stroma
+19x26	19x26	250	275	Stroma
+19x27	19x27	236	275	Stroma
+19x28	19x28	221	275	Stroma
+19x29	19x29	206	275	Stroma
+19x30	19x30	191	275	Stroma
+19x31	19x31	176	275	Cancer region
+19x32	19x32	162	275	Cancer region
+19x33	19x33	147	275	Cancer region
+19x34	19x34	132	275	Cancer region
+20x13	20x13	443	290	Pancreatic tissue
+20x14	20x14	428	290	Pancreatic tissue
+20x15	20x15	413	290	Pancreatic tissue
+20x16	20x16	398	290	Pancreatic tissue
+20x17	20x17	384	290	Pancreatic tissue
+20x18	20x18	369	290	Pancreatic tissue
+20x19	20x19	354	290	Stroma
+20x20	20x20	339	290	Stroma
+20x21	20x21	324	290	Stroma
+20x22	20x22	310	290	Stroma
+20x23	20x23	295	290	Stroma
+20x24	20x24	280	290	Stroma
+20x25	20x25	265	290	Stroma
+20x26	20x26	250	290	Stroma
+20x27	20x27	236	290	Stroma
+20x28	20x28	221	290	Cancer region
+20x29	20x29	206	290	Cancer region
+20x30	20x30	191	290	Cancer region
+20x31	20x31	176	290	Cancer region
+20x32	20x32	162	290	Cancer region
+20x33	20x33	147	290	Cancer region
+20x34	20x34	132	290	Cancer region
+21x14	21x14	428	304	Pancreatic tissue
+21x15	21x15	413	304	Pancreatic tissue
+21x16	21x16	398	304	Pancreatic tissue
+21x17	21x17	384	304	Pancreatic tissue
+21x18	21x18	369	304	Pancreatic tissue
+21x19	21x19	354	304	Duct epithelium
+21x20	21x20	339	304	Stroma
+21x21	21x21	324	304	Stroma
+21x22	21x22	310	304	Stroma
+21x23	21x23	295	304	Stroma
+21x24	21x24	280	304	Stroma
+21x25	21x25	265	304	Stroma
+21x26	21x26	250	304	Stroma
+21x27	21x27	236	304	Duct epithelium
+21x28	21x28	221	304	Cancer region
+21x29	21x29	206	304	Cancer region
+21x30	21x30	191	304	Cancer region
+21x31	21x31	176	304	Cancer region
+21x32	21x32	162	304	Cancer region
+21x33	21x33	147	304	Cancer region
+22x14	22x14	428	319	Pancreatic tissue
+22x15	22x15	413	319	Pancreatic tissue
+22x16	22x16	398	319	Pancreatic tissue
+22x17	22x17	384	319	Pancreatic tissue
+22x18	22x18	369	319	Stroma
+22x19	22x19	354	319	Duct epithelium
+22x20	22x20	339	319	Stroma
+22x21	22x21	324	319	Stroma
+22x23	22x23	295	319	Stroma
+22x24	22x24	280	319	Stroma
+22x25	22x25	265	319	Stroma
+22x26	22x26	250	319	Stroma
+22x27	22x27	236	319	Stroma
+22x28	22x28	221	319	Cancer region
+22x29	22x29	206	319	Cancer region
+22x30	22x30	191	319	Cancer region
+22x31	22x31	176	319	Cancer region
+22x32	22x32	162	319	Cancer region
+22x33	22x33	147	319	Cancer region
+23x15	23x15	413	334	Pancreatic tissue
+23x16	23x16	398	334	Pancreatic tissue
+23x17	23x17	384	334	Stroma
+23x18	23x18	369	334	Stroma
+23x19	23x19	354	334	Stroma
+23x20	23x20	339	334	Stroma
+23x21	23x21	324	334	Stroma
+23x22	23x22	310	334	Stroma
+23x23	23x23	295	334	Stroma
+23x24	23x24	280	334	Stroma
+23x25	23x25	265	334	Stroma
+23x26	23x26	250	334	Duct epithelium
+23x27	23x27	236	334	Cancer region
+23x28	23x28	221	334	Cancer region
+23x29	23x29	206	334	Cancer region
+23x30	23x30	191	334	Cancer region
+23x31	23x31	176	334	Cancer region
+23x32	23x32	162	334	Cancer region
+24x16	24x16	398	349	Pancreatic tissue
+24x17	24x17	384	349	Pancreatic tissue
+24x18	24x18	369	349	Stroma
+24x19	24x19	354	349	Stroma
+24x20	24x20	339	349	Stroma
+24x21	24x21	324	349	Stroma
+24x22	24x22	310	349	Stroma
+24x23	24x23	295	349	Stroma
+24x24	24x24	280	349	Stroma
+24x25	24x25	265	349	Stroma
+24x26	24x26	250	349	Stroma
+24x27	24x27	236	349	Cancer region
+24x28	24x28	221	349	Cancer region
+24x29	24x29	206	349	Cancer region
+24x30	24x30	191	349	Cancer region
+24x31	24x31	176	349	Cancer region
+24x32	24x32	162	349	Cancer region
+25x17	25x17	384	364	Stroma
+25x18	25x18	369	364	Stroma
+25x19	25x19	354	364	Stroma
+25x20	25x20	339	364	Stroma
+25x21	25x21	324	364	Stroma
+25x22	25x22	310	364	Cancer region
+25x23	25x23	295	364	Cancer region
+25x24	25x24	280	364	Stroma
+25x25	25x25	265	364	Stroma
+25x26	25x26	250	364	Cancer region
+25x27	25x27	236	364	Cancer region
+25x28	25x28	221	364	Cancer region
+25x29	25x29	206	364	Cancer region
+25x30	25x30	191	364	Cancer region
+25x31	25x31	176	364	Cancer region
+25x32	25x32	162	364	Cancer region
+26x17	26x17	384	378	Pancreatic tissue
+26x18	26x18	369	378	Pancreatic tissue
+26x19	26x19	354	378	Stroma
+26x20	26x20	339	378	Stroma
+26x21	26x21	324	378	Stroma
+26x22	26x22	310	378	Cancer region
+26x23	26x23	295	378	Cancer region
+26x24	26x24	280	378	Cancer region
+26x25	26x25	265	378	Cancer region
+26x26	26x26	250	378	Cancer region
+26x27	26x27	236	378	Cancer region
+26x28	26x28	221	378	Cancer region
+26x29	26x29	206	378	Cancer region
+26x30	26x30	191	378	Cancer region
+26x31	26x31	176	378	Cancer region
+27x18	27x18	369	393	Stroma
+27x19	27x19	354	393	Stroma
+27x20	27x20	339	393	Duct epithelium
+27x21	27x21	324	393	Cancer region
+27x22	27x22	310	393	Cancer region
+27x23	27x23	295	393	Cancer region
+27x25	27x25	265	393	Cancer region
+27x26	27x26	250	393	Cancer region
+27x27	27x27	236	393	Cancer region
+27x28	27x28	221	393	Cancer region
+28x18	28x18	369	408	Stroma
+28x19	28x19	354	408	Cancer region
+28x20	28x20	339	408	Stroma
+28x21	28x21	324	408	Cancer region
+28x22	28x22	310	408	Cancer region
+28x23	28x23	295	408	Cancer region
+28x25	28x25	265	408	Cancer region
+28x26	28x26	250	408	Cancer region
+29x19	29x19	354	423	Cancer region
+29x20	29x20	339	423	Cancer region
+29x21	29x21	324	423	Cancer region
+29x22	29x22	310	423	Cancer region
+29x23	29x23	295	423	Cancer region
+30x20	30x20	339	438	Cancer region
+30x21	30x21	324	438	Cancer region
+30x22	30x22	310	438	Cancer region

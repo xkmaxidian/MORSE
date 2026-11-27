@@ -1,0 +1,44 @@
+{
+  "dataset": "visium_breast",
+  "input": {
+    "matrix": "data/visium_breast/filtered_feature_bc_matrix.h5",
+    "positions": "data/visium_breast/spatial/tissue_positions_list.csv",
+    "scalefactors": "data/visium_breast/spatial/scalefactors_json.json",
+    "image": "data/visium_breast/spatial/tissue_hires_image.png"
+  },
+  "preprocessing": {
+    "min_detected_spots": 5,
+    "library_size": 10000,
+    "n_top_genes": 3000
+  },
+  "image": {
+    "patch_size": 15
+  },
+  "generation": {
+    "mode": "lattice",
+    "density_factor": 4.0
+  },
+  "model": {
+    "epochs": 5000,
+    "learning_rate": 0.001,
+    "hidden_dim": 256,
+    "topology_hidden_dim": 128,
+    "neighbors": 6,
+    "displacement_bound": 1.0,
+    "morphology_mask_ratio": 0.2,
+    "tau_gene": 1.0,
+    "tau_morphology": 1.0,
+    "lambda_latent": 1.0,
+    "lambda_reconstruction": 1.0,
+    "lambda_topology": 1.0,
+    "lambda_morphology": 1.0,
+    "lambda_geometry": 1.0,
+    "l1_weight": 0.1,
+    "wasserstein_weight": 0.1,
+    "swd_projections": 100,
+    "epsilon": 1e-08,
+    "seed": 1234,
+    "device": "cpu"
+  },
+  "output_dir": "outputs/visium_breast"
+}

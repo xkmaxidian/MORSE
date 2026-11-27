@@ -1,0 +1,66 @@
+{
+  "datasets": {
+    "pdac": {
+      "sample_id": "GSM3036911",
+      "series": "GSE111672",
+      "registered_tissue_spots": 428
+    },
+    "visium_breast": {
+      "sample_id": "V1_Breast_Cancer_Block_A_Section_1",
+      "tissue_spots": 3798,
+      "matrix_features_before_filter": 36601,
+      "space_ranger_version": "1.1.0",
+      "reference_genome": "GRCh38"
+    }
+  },
+  "files": [
+    {
+      "path": "data/pdac/counts.tsv.gz",
+      "source": "/root/autodl-fs/sup_res/MORSE_publication_20261126/GSM3036911_counts.tsv.gz",
+      "sha256": "2ead9f3045b50a2540a36720f48d7d3c5e895f0ed25fb1a9919d3b2d504a8cce",
+      "bytes": 1898757
+    },
+    {
+      "path": "data/pdac/spot_locations.tsv",
+      "source": "/root/autodl-fs/sup_res/STAGE-label/data/PDAC/data/locs-raw-sorted.txt",
+      "sha256": "c0fdf8faa90dd0f158cad547e2551271a84311389acfd5a12017fed9bef27c27",
+      "bytes": 14373
+    },
+    {
+      "path": "data/pdac/he_image.png",
+      "source": "/root/autodl-fs/sup_res/STAGE-label/data/PDAC/data/ST-imgs/he-raw.png",
+      "sha256": "cc5ffc6cb5f644759a63e41958f6095eab78709c48ccc817c9ee17c57d90595e",
+      "bytes": 757219
+    },
+    {
+      "path": "data/visium_breast/filtered_feature_bc_matrix.h5",
+      "source": "/root/autodl-fs/sup_res/STAGE-label/data/Breast_Cancer/V1/filtered_feature_bc_matrix.h5",
+      "sha256": "b3cbb6ead60afad848ebcc07a34835613d9d2d79e416ad8300b210d9de584b65",
+      "bytes": 28201028
+    },
+    {
+      "path": "data/visium_breast/spatial/tissue_positions_list.csv",
+      "source": "/root/autodl-fs/sup_res/STAGE-label/data/Breast_Cancer/V1/spatial/tissue_positions_list.csv",
+      "sha256": "284f439570700a566512e469cddfb1bc59ac135b523a74c806a4fb59d41c2547",
+      "bytes": 191224
+    },
+    {
+      "path": "data/visium_breast/spatial/scalefactors_json.json",
+      "source": "/root/autodl-fs/sup_res/STAGE-label/data/Breast_Cancer/V1/spatial/scalefactors_json.json",
+      "sha256": "e0c079e051357928f76f98d8de0c92e6b85e33e6b1c794f13cdee3384494bcff",
+      "bytes": 166
+    },
+    {
+      "path": "data/visium_breast/spatial/tissue_hires_image.png",
+      "source": "/root/autodl-fs/sup_res/STAGE-label/data/Breast_Cancer/V1/spatial/tissue_hires_image.png",
+      "sha256": "74c2a7a2741e4d7a43811a01533d373154982f44dffc85d2027012d873429593",
+      "bytes": 5760732
+    },
+    {
+      "path": "data/visium_breast/spatial/tissue_lowres_image.png",
+      "source": "/root/autodl-fs/sup_res/STAGE-label/data/Breast_Cancer/V1/spatial/tissue_lowres_image.png",
+      "sha256": "e24b3e0c823838cce2deb6933dbd2e0632de86d29b4cd6c4dc22051c71adb816",
+      "bytes": 496197
+    }
+  ]
+}
